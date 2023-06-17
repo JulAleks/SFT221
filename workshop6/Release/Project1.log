@@ -1,0 +1,10 @@
+﻿  main.c
+  2 of 8 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+log4c.lib(log4c.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+log4c.lib(log4c.obj) : warning LNK4099: PDB '' was not found with 'log4c.lib(log4c.obj)' or at ''; linking object as if no debug info
+  Project1.vcxproj -> C:\Julia\SENECA\Semester 2\SFT\week 6\ws6\Project1\Release\Project1.exe

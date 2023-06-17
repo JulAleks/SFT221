@@ -1,0 +1,7 @@
+﻿  main.c
+main.obj : error LNK2019: unresolved external symbol l4cOpen referenced in function main
+main.obj : error LNK2019: unresolved external symbol l4cClose referenced in function main
+main.obj : error LNK2019: unresolved external symbol l4cInfo referenced in function main
+main.obj : error LNK2019: unresolved external symbol l4cCheck referenced in function main
+..\..\test\ConsoleApplication1\log4c.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Julia\SENECA\Semester 2\SFT\week 6\ws6\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 4 unresolved externals
