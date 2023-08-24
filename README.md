@@ -1,6 +1,6 @@
 # Software Testing Course Workshops
 
-Welcome to the Software Testing Course Workshops repository for the Computer Programming and Analysis program at Seneca College, taught by Professor Robin Huang.
+Welcome to my Software Testing Course Workshops repository for the Computer Programming and Analysis program at Seneca College, taught by Professor Robin Huang.
 
 ## About this Repository
 
